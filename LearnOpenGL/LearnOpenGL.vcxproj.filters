@@ -18,12 +18,15 @@
     <ClInclude Include="stb_image.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CShader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="HelloTriangle\OriginTriangle.cpp">
+    <ClCompile Include="cameraTest\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
